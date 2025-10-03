@@ -31,7 +31,9 @@ Develop SQL-based analytics to deliver detailed insights into:
 **Sales Trends**
 
 These insights epower stakeholders with key business metrics, enabling strategic decision-making
+
 ---
+
  ## 🚀 About me
 
  Hi there! I am **Raja Wahaj**. I am an IT professional and Data Analyst focused of generating insights for strategic decision making.
